@@ -1,0 +1,6 @@
+/* Center it by default */
+.videogif {
+    width: 100%;
+    display:block;
+    margin: 0 auto;
+}
