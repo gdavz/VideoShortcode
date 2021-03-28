@@ -1,1 +1,1 @@
-# VideoShortcode
+# VideoShortcode - autoplay all videos
